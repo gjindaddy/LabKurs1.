@@ -1,2 +1,2 @@
-# LabKurs1.
+# LabKurs1
 CloudHireKS
